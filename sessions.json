@@ -1674,6 +1674,1723 @@
       "slides": "static_media/80.ppt"
     }
   },
+  "1999": {
+    "0": {
+      "eventId": "wwdc1999",
+      "session_number": 0,
+      "date": "1999-05-10T09:30:00Z",
+      "title": "Keynote Address",
+      "presenters": [
+        "Steve Jobs",
+        null
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "5": {
+      "eventId": "wwdc1999",
+      "session_number": 5,
+      "date": "1999-05-11T09:00:00Z",
+      "title": "Sales and Distribution",
+      "presenters": [
+        "Mitch Mandich",
+        null
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "6": {
+      "eventId": "wwdc1999",
+      "session_number": 6,
+      "date": "1999-05-11T10:00:00Z",
+      "title": "Hardware Directions",
+      "presenters": [
+        [
+          "Jon Rubenstein",
+          null
+        ],
+        [
+          "Phil Schiller",
+          null
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "101": {
+      "eventId": "wwdc1999",
+      "session_number": 101,
+      "date": "1999-05-10T13:00:00Z",
+      "title": "Mac OS X Update",
+      "presenters": [
+        [
+          "Ken Bereskin",
+          "Director, Product Marketing"
+        ],
+        [
+          "Bertrand Serlet",
+          "VP, Mac OS X"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "102": {
+      "eventId": "wwdc1999",
+      "session_number": 102,
+      "date": "1999-05-10T14:30:00Z",
+      "title": "Darwin Overview",
+      "presenters": [
+        [
+          "Ernest Prabhakar",
+          "Open Source Product Manager"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "103": {
+      "eventId": "wwdc1999",
+      "session_number": 103,
+      "date": "1999-05-10T16:00:00Z",
+      "title": "Developing with Darwin",
+      "presenters": [
+        [
+          "Brett Halle",
+          "Manager, Core OS Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "104": {
+      "eventId": "wwdc1999",
+      "session_number": 104,
+      "date": "1999-05-12T16:00:00Z",
+      "title": "Mac OS 8 Compatibility Update",
+      "presenters": [
+        [
+          "John Signa",
+          "Technology Manager, Mac OS X Carbon"
+        ],
+        [
+          "Brent Knight",
+          "Blue Box Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "105": {
+      "eventId": "wwdc1999",
+      "session_number": 105,
+      "date": "1999-05-11T13:00:00Z",
+      "title": "Carbon Overview",
+      "presenters": [
+        [
+          "Scott Forstall",
+          "Senior Manager, Application Frameworks"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "106": {
+      "eventId": "wwdc1999",
+      "session_number": 106,
+      "date": "1999-05-11T14:30:00Z",
+      "title": "Carbon on Mac OS X",
+      "presenters": [
+        [
+          "John Iarocci",
+          "Manager, Carbon Team"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "107": {
+      "eventId": "wwdc1999",
+      "session_number": 107,
+      "date": "1999-05-11T16:00:00Z",
+      "title": "Carbon on Mac OS 8",
+      "presenters": [
+        [
+          "Nitin Ganatra",
+          "Carbon Team"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "108": {
+      "eventId": "wwdc1999",
+      "session_number": 108,
+      "date": "1999-05-12T14:30:00Z",
+      "title": "Core Foundation Overview",
+      "presenters": [
+        [
+          "Ali Ozer",
+          "Application Frameworks Engineering"
+        ],
+        [
+          "Chris Kane",
+          "Application Frameworks Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "109": {
+      "eventId": "wwdc1999",
+      "session_number": 109,
+      "date": "1999-05-14T10:15:00Z",
+      "title": "High Level Toolbox 1",
+      "presenters": [
+        [
+          "Guy Fullerton",
+          "HLTB Engineer, Recovering Demo Boy"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "110": {
+      "eventId": "wwdc1999",
+      "session_number": 110,
+      "date": "1999-05-14T13:00:00Z",
+      "title": "High Level Toolbox 2",
+      "presenters": [
+        [
+          "Ed Voas",
+          "Manager, Tech Lead, Jedi High Level Toolbox"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "111": {
+      "eventId": "wwdc1999",
+      "session_number": 111,
+      "date": "1999-05-14T16:00:00Z",
+      "title": "Core Foundation Plug-ins",
+      "presenters": [
+        "Mike Ferris"
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "112": {
+      "eventId": "wwdc1999",
+      "session_number": 112,
+      "date": "1999-05-12T09:00:00Z",
+      "title": "Mac OS X Graphics Architecture",
+      "presenters": [
+        [
+          "Peter Graffagnino",
+          "Director, Graphics and Imaging Software"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "113": {
+      "eventId": "wwdc1999",
+      "session_number": 113,
+      "date": "1999-05-12T16:00:00Z",
+      "title": "Printing for Mac OS 8 and Mac OS X",
+      "presenters": [
+        [
+          "Paul Danbold",
+          "Printing Stooge"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "114": {
+      "eventId": "wwdc1999",
+      "session_number": 114,
+      "date": "1999-05-14T09:00:00Z",
+      "title": "Cocoa Overview",
+      "presenters": [
+        [
+          "Becky Willrich",
+          "Application Frameworks Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "115": {
+      "eventId": "wwdc1999",
+      "session_number": 115,
+      "date": "1999-05-14T10:15:00Z",
+      "title": "What’s New in Cocoa",
+      "presenters": [
+        [
+          "Ali Ozer",
+          "Application Frameworks Engineering"
+        ],
+        [
+          "Chris Kane",
+          "Application Frameworks Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "116": {
+      "eventId": "wwdc1999",
+      "session_number": 116,
+      "date": "1999-05-11T13:00:00Z",
+      "title": "Core OS Overview",
+      "presenters": [
+        [
+          "Brett Halle",
+          "Manager, Core OS Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "117": {
+      "eventId": "wwdc1999",
+      "session_number": 117,
+      "date": "1999-05-12T09:00:00Z",
+      "title": "Mac OS X Kernel",
+      "presenters": [
+        [
+          "Brett Halle",
+          "Manager, Core OS Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "118": {
+      "eventId": "wwdc1999",
+      "session_number": 118,
+      "date": "1999-05-13T10:15:00Z",
+      "title": "Mac OS X BSD Support",
+      "presenters": [
+        [
+          "Brett Halle",
+          "Manager, Core OS Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "119": {
+      "eventId": "wwdc1999",
+      "session_number": 119,
+      "date": "1999-05-13T13:00:00Z",
+      "title": "Mac OS X I/O Drivers",
+      "presenters": [
+        [
+          "Dean Reece",
+          "I/O Kit Team Manager"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "120": {
+      "eventId": "wwdc1999",
+      "session_number": 120,
+      "date": "1999-05-14T14:30:00Z",
+      "title": "Core Mac OS X File Systems",
+      "presenters": [
+        [
+          "Clark Warner",
+          "Manager, Core OS File Systems Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "121": {
+      "eventId": "wwdc1999",
+      "session_number": 121,
+      "date": "1999-05-13T14:30:00Z",
+      "title": "Using ProjectBuilder for Mac OS X Development",
+      "presenters": [
+        [
+          "Dave Payne",
+          "Manager, Mac OS X Developer Applications"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "122": {
+      "eventId": "wwdc1999",
+      "session_number": 122,
+      "date": "1999-05-13T16:00:00Z",
+      "title": "Apple’s Development Tools for Mac OS X",
+      "presenters": [
+        [
+          "Dave Payne",
+          "Manager, Mac OS X Developer Applications"
+        ],
+        [
+          "John Graziano",
+          "Lead Engineer, ProjectBuilder Core Internals"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "123": {
+      "eventId": "wwdc1999",
+      "session_number": 123,
+      "date": "1999-05-13T10:15:00Z",
+      "title": "The NetBoot Macintosh and You",
+      "presenters": [
+        [
+          "Keith Stattenfield",
+          "Software Engineer, Technical Lead"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "150": {
+      "eventId": "wwdc1999",
+      "session_number": 150,
+      "date": "1999-05-10T14:30:00Z",
+      "title": "Mac OS 8 Overview",
+      "presenters": [
+        [
+          "Peter Lowe",
+          "Director, Mac OS Worldwide Product Marketing"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "151": {
+      "eventId": "wwdc1999",
+      "session_number": 151,
+      "date": "1999-05-10T16:00:00Z",
+      "title": "Apple Help",
+      "presenters": [
+        [
+          "Gordon Meyer",
+          "Human Interface Engineer Instructional Products Group"
+        ],
+        [
+          "Riley Howard",
+          "Lead Engineer, Apple Help User Experience Group"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "152": {
+      "eventId": "wwdc1999",
+      "session_number": 152,
+      "date": "1999-05-11T13:00:00Z",
+      "title": "Supporting Unicode Text",
+      "presenters": [
+        [
+          "Merle Tenney",
+          "International Technology Manager Worldwide Developer Relations"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "153": {
+      "eventId": "wwdc1999",
+      "session_number": 153,
+      "date": "1999-05-11T14:30:00Z",
+      "title": "Font Management for Applications",
+      "presenters": [
+        [
+          "Andy Daniels",
+          "International and Text Group"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "154": {
+      "eventId": "wwdc1999",
+      "session_number": 154,
+      "date": "1999-05-11T16:00:00Z",
+      "title": "Maintaining and Extending Fonts",
+      "presenters": [
+        [
+          "Peter Lofting",
+          "Apple Fonts Group"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "155": {
+      "eventId": "wwdc1999",
+      "session_number": 155,
+      "date": "1999-05-12T13:00:00Z",
+      "title": "Navigation Services Update",
+      "presenters": [
+        [
+          "Christopher Linn",
+          "User Experience Engineer"
+        ],
+        [
+          "Keith Mortensen",
+          "User Experience Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "156": {
+      "eventId": "wwdc1999",
+      "session_number": 156,
+      "date": "1999-05-12T09:00:00Z",
+      "title": "AppleScript: How We Won the Eddy",
+      "presenters": [
+        [
+          "Jason Yeo",
+          "AppleScript Technology Manager"
+        ],
+        [
+          "Chris Espinosa",
+          "Manager, Components and Scripting"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "157": {
+      "eventId": "wwdc1999",
+      "session_number": 157,
+      "date": "1999-05-12T10:15:00Z",
+      "title": "AppleScript, Mac OS X, and Carbon",
+      "presenters": [
+        [
+          "Jason Yeo",
+          "AppleScript Technology Manager"
+        ],
+        [
+          "Chris Espinosa",
+          "Manager, Components and Scripting"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "159": {
+      "eventId": "wwdc1999",
+      "session_number": 159,
+      "date": "1999-05-12T13:00:00Z",
+      "title": "Game Sprockets",
+      "presenters": [
+        [
+          "Jim Black",
+          "Partnership Manager, Games"
+        ],
+        [
+          "Chris DeSalvo",
+          "Game Sprockets Tech Lead"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "160": {
+      "eventId": "wwdc1999",
+      "session_number": 160,
+      "date": "1999-05-13T14:30:00Z",
+      "title": "File Manager Changes in Mac OS 8",
+      "presenters": [
+        [
+          "Mark Day",
+          "Mac OS 8 File Manager Limit Buster"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "161": {
+      "eventId": "wwdc1999",
+      "session_number": 161,
+      "date": "1999-05-13T09:00:00Z",
+      "title": "Icons in Mac OS 8 and Mac OS X",
+      "presenters": [
+        [
+          "Arno Gourdol",
+          "Pixel Juggler"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "162": {
+      "eventId": "wwdc1999",
+      "session_number": 162,
+      "date": "1999-05-13T10:15:00Z",
+      "title": " What’s New in QuickDraw",
+      "presenters": [
+        [
+          "John Calhoun",
+          "QuickDraw Engineering"
+        ],
+        [
+          "Mike Marinkovich",
+          "QuickDraw Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "163": {
+      "eventId": "wwdc1999",
+      "session_number": 163,
+      "date": "1999-05-13T10:15:00Z",
+      "title": "Apple Event Object Model",
+      "presenters": [
+        [
+          "Jason Yeo",
+          "AppleScript Technology Manager"
+        ],
+        [
+          "Andy Bachorski",
+          "Apple Event Guru"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "164": {
+      "eventId": "wwdc1999",
+      "session_number": 164,
+      "date": "1999-05-13T13:00:00Z",
+      "title": "Extending AppleScript",
+      "presenters": [
+        [
+          "Jason Yeo",
+          "AppleScript Technology Manager"
+        ],
+        [
+          "Andy Bachorski",
+          "Apple Event Guru"
+        ],
+        "Christopher Nebel AppleScript Engineering"
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "166": {
+      "eventId": "wwdc1999",
+      "session_number": 166,
+      "date": "1999-05-14T10:15:00Z",
+      "title": "What’s New in the Nanokernel",
+      "presenters": [
+        [
+          "René A. Vega",
+          "Mac OS Core Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "167": {
+      "eventId": "wwdc1999",
+      "session_number": 167,
+      "date": "1999-05-14T13:00:00Z",
+      "title": "Sherlock Plug-ins",
+      "presenters": [
+        [
+          "Wayne Loofbourrow",
+          "Sherlock Technologies, User Experience Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "168": {
+      "eventId": "wwdc1999",
+      "session_number": 168,
+      "date": "1999-05-14T16:00:00Z",
+      "title": "From “Point-and-Click” to “Ask-and-Tell”",
+      "presenters": [
+        [
+          "Kim Silverman, PhD",
+          "Manager, Spoken Language Group"
+        ],
+        [
+          "Devang Naik, PhD",
+          "Senior Scientist"
+        ],
+        [
+          "Thomas Bonura, PhD",
+          "Senior Scientist"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "201": {
+      "eventId": "wwdc1999",
+      "session_number": 201,
+      "date": "1999-05-11T16:00:00Z",
+      "title": "AltiVec Overview",
+      "presenters": [
+        [
+          "A. Sazegari",
+          "AltiVec Technical Lead, Core OS"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "202": {
+      "eventId": "wwdc1999",
+      "session_number": 202,
+      "date": "1999-05-11T14:30:00Z",
+      "title": "Vectorizing Your Code",
+      "presenters": [
+        [
+          "A. Sazegari",
+          "AltiVec Technical Lead, Core OS"
+        ],
+        [
+          "Douglas Clarke",
+          "AltiVec Vectorizer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "203": {
+      "eventId": "wwdc1999",
+      "session_number": 203,
+      "date": "1999-05-12T14:30:00Z",
+      "title": "USB Introduction",
+      "presenters": [
+        [
+          "Jai Chulani",
+          "Technology Manager"
+        ],
+        [
+          "Craig Keithley",
+          "Technology Manager"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "204": {
+      "eventId": "wwdc1999",
+      "session_number": 204,
+      "date": "1999-05-12T16:00:00Z",
+      "title": "USB In-Depth",
+      "presenters": [
+        [
+          "Jai Chulani",
+          "Technology Manager"
+        ],
+        [
+          "Craig Keithley",
+          "Technology Manager"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "205": {
+      "eventId": "wwdc1999",
+      "session_number": 205,
+      "date": "1999-05-12T10:15:00Z",
+      "title": "FireWire Overview",
+      "presenters": [
+        [
+          "Jai Chulani",
+          "Technology Manager"
+        ],
+        [
+          "Eric Anderson",
+          "FireWire Software, Manager and Technical Lead"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "206": {
+      "eventId": "wwdc1999",
+      "session_number": 206,
+      "date": "1999-05-12T13:00:00Z",
+      "title": "FireWire In-Depth",
+      "presenters": [
+        [
+          "Jai Chulani",
+          "Technology Manager"
+        ],
+        [
+          "Eric Anderson",
+          "FireWire Software, Manager and Technical Lead"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "207": {
+      "eventId": "wwdc1999",
+      "session_number": 207,
+      "date": "1999-05-13T16:00:00Z",
+      "title": "Think Fast! Performance!",
+      "presenters": [
+        [
+          "Glenn Fisher",
+          "Performance Marketing Manager"
+        ],
+        [
+          "Roger Pantos",
+          "Classic (Blue Box) Engineering"
+        ],
+        [
+          "Siamak Arya",
+          "Director, Architecture & Performance Engineering"
+        ],
+        [
+          "Justin Bishop",
+          "Performance Engineer, Architecture and Performance Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "208": {
+      "eventId": "wwdc1999",
+      "session_number": 208,
+      "date": "1999-05-13T14:30:00Z",
+      "title": "ColorSync 2.6 and Beyond",
+      "presenters": [
+        [
+          "Roger Siminoff",
+          null
+        ],
+        [
+          "David Hayward",
+          null
+        ],
+        [
+          "Werner Neubrand",
+          null
+        ],
+        [
+          "Eric Broadbent",
+          null
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "209": {
+      "eventId": "wwdc1999",
+      "session_number": 209,
+      "date": "1999-05-13T10:15:00Z",
+      "title": "Power Manager 2.0 for Mac OS 8",
+      "presenters": [
+        [
+          "Scott A. Johnson",
+          "Software Engineer, CPU Software"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "210": {
+      "eventId": "wwdc1999",
+      "session_number": 210,
+      "date": "1999-05-13T13:00:00Z",
+      "title": "Open Firmware",
+      "presenters": [
+        [
+          "David Harrington",
+          "Technology Manager, World Wide Developer Relations"
+        ],
+        [
+          "Wayne Flansburg",
+          "DTS Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "211": {
+      "eventId": "wwdc1999",
+      "session_number": 211,
+      "date": "1999-05-14T09:00:00Z",
+      "title": "Data Prefetching",
+      "presenters": [
+        "Kalpesh Gala",
+        "Jim Robertson"
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "301": {
+      "eventId": "wwdc1999",
+      "session_number": 301,
+      "date": "1999-05-10T14:30:00Z",
+      "title": "WebObjects Overview",
+      "presenters": [
+        [
+          "Allen Denison",
+          "WebObjects Product Manager"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "302": {
+      "eventId": "wwdc1999",
+      "session_number": 302,
+      "date": "1999-05-10T13:00:00Z",
+      "title": "Advanced HTML/DHTML",
+      "presenters": [
+        [
+          "Matthew Firlik",
+          "Systems Engineer, Apple Computer, Inc."
+        ],
+        [
+          "Matthew Brown",
+          "Third Party Relations Manager, Macromedia"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "303": {
+      "eventId": "wwdc1999",
+      "session_number": 303,
+      "date": "1999-05-10T16:00:00Z",
+      "title": "WebObjects for Mac Web Developers",
+      "presenters": [
+        [
+          "Tim Joransen",
+          "Systems Engineer, Apple Enterprise Software"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "305": {
+      "eventId": "wwdc1999",
+      "session_number": 305,
+      "date": "1999-05-11T16:00:00Z",
+      "title": "WebObjects: EOModeler",
+      "presenters": [
+        [
+          "David Scheck",
+          "Senior Systems Engineer"
+        ],
+        [
+          "Nader Nafissi",
+          "Senior Systems Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "306": {
+      "eventId": "wwdc1999",
+      "session_number": 306,
+      "date": "1999-05-12T09:00:00Z",
+      "title": "Deploying WebObjects",
+      "presenters": [
+        [
+          "Aaron Hillegass",
+          "Consulting Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "307": {
+      "eventId": "wwdc1999",
+      "session_number": 307,
+      "date": "1999-05-12T13:00:00Z",
+      "title": "WebObjects & SQL Relational Databases",
+      "presenters": [
+        [
+          "Scott Keith",
+          "OpenBase International Ltd."
+        ],
+        [
+          "Scott Sweet",
+          "AES Systems Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "308": {
+      "eventId": "wwdc1999",
+      "session_number": 308,
+      "date": "1999-05-12T14:30:00Z",
+      "title": "WebObjects Code Reuse Strategy",
+      "presenters": [
+        [
+          "Jeff Martin",
+          "Founder, ReportMill Software"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "311": {
+      "eventId": "wwdc1999",
+      "session_number": 311,
+      "date": "1999-05-13T09:00:00Z",
+      "title": "Introduction to WebObjects Java Client",
+      "presenters": [
+        [
+          "Rory Lydon",
+          "WebObjects Engineering"
+        ],
+        [
+          "Eric Noyau",
+          "WebObjects Engineering"
+        ],
+        [
+          "Patrick Gates",
+          "Java Client Development"
+        ],
+        [
+          "Ben Trumbull",
+          "Java Client Development"
+        ],
+        [
+          "Andreas Wendker",
+          "Java Client Development"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "312": {
+      "eventId": "wwdc1999",
+      "session_number": 312,
+      "date": "1999-05-13T09:00:00Z",
+      "title": "Fine-Tuning the Performance of WebObjects Applications",
+      "presenters": [
+        [
+          "Dave Neumann",
+          "Consulting Engineer"
+        ],
+        [
+          "Anand Sundaram",
+          "RSW Software"
+        ],
+        [
+          "Bruce Arthur",
+          "Manager, Enterprise Objects"
+        ],
+        [
+          "Mai Nguyen",
+          "Developer Support"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "313": {
+      "eventId": "wwdc1999",
+      "session_number": 313,
+      "date": "1999-05-13T16:00:00Z",
+      "title": "WebObjects Debugging Techniques",
+      "presenters": [
+        [
+          "Mai Nguyen",
+          "Developer Support"
+        ],
+        [
+          "Bob Frank",
+          "Consulting Engineer"
+        ],
+        [
+          "Steve Hayman",
+          "Systems Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "401": {
+      "eventId": "wwdc1999",
+      "session_number": 401,
+      "date": "1999-05-11T14:30:00Z",
+      "title": "Java Overview",
+      "presenters": [
+        [
+          "Alan Samuel",
+          "Java Technology Manager, Worldwide Developer Relations"
+        ],
+        [
+          "Steve Naroff",
+          "Director, Java Technologies"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "402": {
+      "eventId": "wwdc1999",
+      "session_number": 402,
+      "date": "1999-05-12T14:30:00Z",
+      "title": "Inside MRJ",
+      "presenters": [
+        [
+          "Peter A. Steinauer",
+          "Java Platform Engineering"
+        ],
+        [
+          "John Burkey",
+          "Java Platform Engineering"
+        ],
+        [
+          "Jens Alfke",
+          "Java Platform Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "403": {
+      "eventId": "wwdc1999",
+      "session_number": 403,
+      "date": "1999-05-13T13:00:00Z",
+      "title": "Java on Mac OS X Server",
+      "presenters": [
+        [
+          "Alan Samuel",
+          "Java Technology Manager, Worldwide Developer Relations"
+        ],
+        [
+          "Blaine Garst",
+          "Manager, Java Runtime Technologies Group"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "404": {
+      "eventId": "wwdc1999",
+      "session_number": 404,
+      "date": "1999-05-13T14:30:00Z",
+      "title": "AppleScript for Java",
+      "presenters": [
+        [
+          "Alan Samuel",
+          "Java Technology Manager, Worldwide Developer Relations"
+        ],
+        [
+          "Chris Espinosa",
+          "Manager, Components and Scripting"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "501": {
+      "eventId": "wwdc1999",
+      "session_number": 501,
+      "date": "1999-05-10T16:00:00Z",
+      "title": "QuickTime Overview",
+      "presenters": [
+        "Jim Batson",
+        "Peter Hoddie"
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "502": {
+      "eventId": "wwdc1999",
+      "session_number": 502,
+      "date": "1999-05-11T13:00:00Z",
+      "title": "QuickTime and the Internet",
+      "presenters": [
+        [
+          "Kevin Calhoun",
+          "QuickTime Engineering"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "503": {
+      "eventId": "wwdc1999",
+      "session_number": 503,
+      "date": "1999-05-11T14:30:00Z",
+      "title": "QuickTime Interactivity",
+      "presenters": [
+        [
+          "Tom Dowdy",
+          "QuickTime Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "504": {
+      "eventId": "wwdc1999",
+      "session_number": 504,
+      "date": "1999-05-11T16:00:00Z",
+      "title": "QuickTime for Java",
+      "presenters": [
+        [
+          "Wiliam Stewart",
+          "Manager, Software Architect QuickTime for Java"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "505": {
+      "eventId": "wwdc1999",
+      "session_number": 505,
+      "date": "1999-05-12T10:15:00Z",
+      "title": "OpenGL Acceleration",
+      "presenters": [
+        [
+          "John Stauffer",
+          "OpenGL Engineering Manager"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "601": {
+      "eventId": "wwdc1999",
+      "session_number": 601,
+      "date": "1999-05-12T10:15:00Z",
+      "title": "Internet and Web Technologies Overview",
+      "presenters": [
+        [
+          "Thomas Weyer",
+          "Network & Communications Technology Manager"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "603": {
+      "eventId": "wwdc1999",
+      "session_number": 603,
+      "date": "1999-05-13T13:00:00Z",
+      "title": "Open Transport Update",
+      "presenters": [
+        [
+          "David “Lefty” Schlesinger",
+          "Manager/Systems Defenestrator, Mac OS Networking"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "605": {
+      "eventId": "wwdc1999",
+      "session_number": 605,
+      "date": "1999-05-13T14:30:00Z",
+      "title": "Tech Overview: AppleShare Client APIs",
+      "presenters": [
+        [
+          "Leland Wallace",
+          "AppleShare IP Client Lead"
+        ],
+        [
+          "Vinnie Moscaritolo",
+          "Developer Tech Support"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "606": {
+      "eventId": "wwdc1999",
+      "session_number": 606,
+      "date": "1999-05-13T16:00:00Z",
+      "title": "Apple's Directory Services & NetInfo",
+      "presenters": [
+        [
+          "David M. O’Rourke",
+          "Apple Server Software"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "607": {
+      "eventId": "wwdc1999",
+      "session_number": 607,
+      "date": "1999-05-12T14:30:00Z",
+      "title": "Security APIs",
+      "presenters": [
+        [
+          "Dr. John Hurley",
+          "Senior Engineer, Data Security Group"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "608": {
+      "eventId": "wwdc1999",
+      "session_number": 608,
+      "date": "1999-05-12T16:00:00Z",
+      "title": "Keychain Manager",
+      "presenters": [
+        [
+          "Ken McLeod",
+          "Senior Engineer"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "609": {
+      "eventId": "wwdc1999",
+      "session_number": 609,
+      "date": "1999-05-14T09:00:00Z",
+      "title": "Mac OS X Networking",
+      "presenters": [
+        [
+          "Justin Walker",
+          "Manager, Mac OS X Networking, Part-time Coder"
+        ],
+        [
+          "Laurent Dumont",
+          "Core OS Networking"
+        ]
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    },
+    "610": {
+      "eventId": "wwdc1999",
+      "session_number": 610,
+      "date": "1999-05-14T10:15:00Z",
+      "title": "Open Transport in Carbon",
+      "presenters": [
+        "Vida Amani",
+        "Core OS Networking & Communication Team"
+      ],
+      "url": null,
+      "base_url": null,
+      "thumbnail": null,
+      "video_static": null,
+      "video_stream": null,
+      "captions": null,
+      "slides": null
+    }
+  },
   "2000": {
     "104": {
       "eventId": "wwdc2000",
